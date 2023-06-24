@@ -1,4 +1,4 @@
-### Olá 👋
+# Olá 👋
 `// That means "hello" in Portuguese!`
  
 <!--
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 <img src="" />
 -->
-Favorite Tech:
+### Favorite Tech:
 <details>
 <summary>Languages</summary>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
