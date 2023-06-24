@@ -1,12 +1,14 @@
 # Olá 👋
 `// That means "hello" in Portuguese!`
  
-I'm a Tech student in Systems Analysis and Development with a BSc in Chemical Engineering, currently participating in a coding bootcamp focusing on web development. </br>
-Born and raised in Minas Gerais, Brazil, I moved to Bordeaux, France during college as an academic exchange student for a year. Having lived in another country and traveled to many others, I had the opportunity to discover many different places and cultures that made me who I am and gave me the chance to collect wonderful memories and meet extraordinary people. That's why I'm on a mission to travel all over the world and learn languages such as English, French and Spanish.
-
-If I'm not coding, I'm likely making coffee, reading, hiking or watching movies/documentaries. 
+I'm a Tech student in Systems Analysis and Development with a BSc in Chemical Engineering, currently participating in a coding bootcamp focusing on web development. I believe that by combining mathematics, science and technology, engineers can solve global challenges and improve products for sustainability. </br>
 
 💡 Here it's all about the journey - I want to explore new challenges in a place where I can be my best self.
+
+### Bonus Content
+Born and raised in Minas Gerais, Brazil, I moved to Bordeaux, France during college as an academic exchange student for a year. Having lived in another country and traveled to many others, I had the opportunity to discover many different places and cultures that made me who I am and gave me the chance to collect wonderful memories and meet extraordinary people. That's why I'm on a mission to travel all over the world and learn languages such as English, French and Spanish. 
+
+If I'm not coding, I'm likely making coffee, reading, hiking or watching movies/documentaries. 
 
 ### Favorite Tech:
 <details>
