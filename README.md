@@ -1,21 +1,13 @@
 # Olá 👋
 `// That means "hello" in Portuguese!`
  
-<!--
-**amandavilaca/amandavilaca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Tech student in Systems Analysis and Development with a BSc in Chemical Engineering, currently participating in a coding bootcamp focusing on web development.
+Born and raised in Minas Gerais, Brazil, I moved to Bordeaux, France during college as an academic exchange student for a year. Having lived in another country and traveled to many others, I had the opportunity to discover many different places and cultures that made me who I am and gave me the chance to collect wonderful memories and meet extraordinary people. That's why I like to travel and learn languages such as English, French and Spanish.
 
-Here are some ideas to get you started:
+If I'm not coding, I'm likely making coffee, reading, hiking or watching movies/documentaries. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<img src="" />
--->
+💡 Here it's all about the journey - I want to explore new challenges in a place where I can be my best self.
+
 ### Favorite Tech:
 <details>
 <summary>Languages</summary>
