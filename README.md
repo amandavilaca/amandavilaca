@@ -49,7 +49,7 @@ I'm a Tech student in Systems Analysis and Development with a BSc in Chemical En
 ### Bonus Content
 Born and raised in Minas Gerais, Brazil, I moved to Bordeaux, France during college as an academic exchange student for a year. Having lived in another country and traveled to many others, I had the opportunity to discover many different places and cultures that made me who I am and gave me the chance to collect wonderful memories and meet extraordinary people. That's why I'm on a mission to travel all over the world and learn languages such as English, French and Spanish. 
 
-If I'm not coding, I'm likely making coffee, reading, hiking or watching movies/documentaries. 
+If I'm not coding, I'm likely making coffee, reading, hiking, watching movies/documentaries, listening to music or playing board games.
 
 
 
