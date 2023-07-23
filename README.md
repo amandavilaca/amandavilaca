@@ -3,8 +3,6 @@
  
 I'm a Tech student in Systems Analysis and Development with a BSc in Chemical Engineering, currently participating in a coding bootcamp focusing on web development. I believe that by combining mathematics, science and technology, engineers can solve global challenges and improve products for sustainability. </br>
 
-💡 It is our choices that show what we truly are, far more than our abilities - Albus Dumbledore (Harry Potter and the Chamber of Secrets).
-
 ### Favorite Tech:
 <details>
 <summary>Languages</summary>
